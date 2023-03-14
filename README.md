@@ -26,7 +26,7 @@ voir dossier `cours 1`
 
 ### exercices
 - consignes :
-- les exercices doivent rendu dans un dossier zippé nommé comme suit `prénom_nom_classe_AAAA_MM_JJ`
+- les exercices doivent rendu dans un dossier zippé nommé comme suit `prénom_nom_AAAA_MM_JJ`
 - Ce dossier doit contenir les sketches Processing.
 - Ces sketches doivent fonctionner sinon il ne pourront pas être noté.
 
