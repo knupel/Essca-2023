@@ -5,6 +5,18 @@ Travaux Dirigés : BMI-1A-S02-DIGIT-GP01
 Outils : Processing
 Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 
+### Cours
+
+
+- Dans les dossiers `cours #` vous trouverez les sujets abordés lors des cours correspondants.
+
+### Exercices consigne
+- Respecter les consignes de l'exercices, les fonctions Processing sont interdite sauf indications contraires.
+- les exercices doivent rendu dans un dossier nommé comme suit `prénom_nom_AAAA_MM_JJ`, il devra être ensuite compressé en – `.zip` ou `.rar` 
+- Ce dossier doit contenir les exercices / sketches – Un sketch processing est fait du dossier nommé `xxx` et du `xxx.pde`
+- Ces sketches doivent fonctionner sinon il ne pourront pas être noté, pour savoir si le sketch Processing fonctionne, on doit double cliquer sur le fichier `pde` et Processing doit s'ouvrir automatiquement.
+- Dans le dossier `exercices #` vous trouverez dans un premier temps les intitulés, puis les réponses.
+
 
 ## Session 1  2023_2_14
 
@@ -13,22 +25,19 @@ Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 - Installation du logiciel de programation Processing.
 - Présentation de Processing pour comprendre la notion de variable et d'opérateur
 
-voir dossier `cours 1`
 
 ## Session 2 2023_3_14
 
 - Les opérateurs la suite du premier cours.
 - Les fonctions personnalisées, setup() et draw() de Processing
 - Utilisation des variables, des opérateurs et de quelques fonctions simples de processing pour modifier un rendu graphique.
+- utlisation de la fonction `background()` pour modifier l'arrière plan
+- utilisation de la fonction `rect()` pour afficher un rectangle.
+- En fin de cours utlisation de la première fonction boucle `while()`
 
-- voir dossier `cours 1` et `cours 2`
-- voir dossier `exercices 2`
 
-### exercices
-- consignes :
-- les exercices doivent rendu dans un dossier zippé nommé comme suit `prénom_nom_AAAA_MM_JJ`
-- Ce dossier doit contenir les sketches Processing.
-- Ces sketches doivent fonctionner sinon il ne pourront pas être noté.
+
+
 
 
 ## Session 3 2023_3_28
