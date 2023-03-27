@@ -1,4 +1,5 @@
 # Essca-Paris-2023
+
 Initiation de 15 heures au concept d'algorithmie
 Classe : MK02-00B-B E-business
 Travaux Dirigés : BMI-1A-S02-DIGIT-GP01
@@ -37,12 +38,9 @@ Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 
 
 
-
-
-
 ## Session 3 2023_3_28
 
-- Premier algorithme graphique.
+- On tourne en boucle pour faire du FizzBuzz.
 
 ## Session 4 2022_4_4
 
