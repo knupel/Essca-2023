@@ -16,7 +16,7 @@ Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 - les exercices doivent rendu dans un dossier nommé comme suit `prénom_nom_AAAA_MM_JJ`, il devra être ensuite compressé en – `.zip` ou `.rar` 
 - Ce dossier doit contenir les exercices / sketches – Un sketch processing est fait du dossier nommé `xxx` et du `xxx.pde`
 - Ces sketches doivent fonctionner sinon il ne pourront pas être noté, pour savoir si le sketch Processing fonctionne, on doit double cliquer sur le fichier `pde` et Processing doit s'ouvrir automatiquement.
-- Dans le dossier `exercices #` vous trouverez dans un premier temps les intitulés, puis les réponses.
+- Dans le dossier `cours # exo` vous trouverez dans un premier temps les intitulés, puis les réponses.
 
 
 ## Session 1  2023_2_14
@@ -37,10 +37,14 @@ Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 - En fin de cours utlisation de la première fonction boucle `while()`
 
 
-
 ## Session 3 2023_3_28
 
-- On tourne en boucle pour faire du FizzBuzz.
+- Exploration des techniques de boucle pour optimiser l'algorithme et en simplifier l'écriture et le paramétrage.
+- utilisation de boucle `while` et ses dangers !
+- utilisation de boucle `for` et ses trois paramètres : entrée, condition et incrémentation pour éviter les danger de la boucle while.
+- explication de la fonction récursive qui boucle sur elle-même.
+- On tourne en boucle pour faire du FizzBuzz. Fizzbuzz est un algorithme célèbre pour expliquer le concept de modulo et l'opérateurs `&&` dans les contitions de réussite
+
 
 ## Session 4 2022_4_4
 
