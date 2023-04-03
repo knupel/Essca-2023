@@ -48,7 +48,8 @@ Ojectif : Réaliser une application visuelle utilisant différents algorithmes.
 
 ## Session 4 2022_4_4
 
-- Un peu plus loins dans les algorithmes et dans Processing.
+- Une boucle, deux boucles voilà la double boucle
+- créer sa propre fonction de forme pour l'utiliser dans la boucle et faire du beau avec du simple.
 
 ## Session 5 2022_1_30
 
