@@ -1,7 +1,7 @@
 /**
  * Créer une fenêtre carré.
  * Et quelque soit sa taille de la fenêtre affichez une grille de 8 sur 8
- * chaque case de la grille devra avoir une orientation différente, avec une rotation par le milieu
+ * chaque case de la grille devra avoir une taille différente, avec une rotation par le milieu
  * 
  * 
  * fonctions autorisées
